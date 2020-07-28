@@ -1,6 +1,6 @@
 module github.com/cristiansortega/canchita
 
-go 1.14
+go1.14
 
 require(
 )
